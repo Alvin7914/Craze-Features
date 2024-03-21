@@ -66,7 +66,7 @@ main.container {
 }
 
 .header-title {
-  /*font-family: "Open Sans", sans-serif;*/
+  font-family: "Open Sans", sans-serif;
   font-size: 30px;
   color: #232323;
   font-weight: 600;
@@ -83,11 +83,11 @@ main.container {
 
 .bottom-part {
   display: flex;
-  margin-top: 20px;
+  margin-top: 80px;
 }
 
 .article-title {
-  /*font-family: "Open Sans", sans-serif;*/
+  font-family: "Open Sans", sans-serif;
   font-size: 24px;
   color: #232323;
   font-weight: bold;
@@ -99,4 +99,6 @@ main.container {
   font-size: 16px;
   color: #838383;
   text-align: center;
+  margin-top: 20px;
+  padding: 0 10px;
 }
